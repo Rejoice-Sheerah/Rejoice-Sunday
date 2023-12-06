@@ -1,0 +1,23 @@
+@import url(fontawesome-all.min.css);
+@import url("https://fonts.googleapis.com/css?family=Merriweather:300,700,300italic,700italic|Source+Sans+Pro:900");
+body{
+    background-color: rgba(220, 220, 220, 0.25);
+    -ms-overflow-style: scrollbar;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: "Merriweather", Georgia, serif;
+		font-weight: 300;
+		font-size: 1rem;
+		line-height: 2.375;
+}
+h1{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+p{
+
+}
